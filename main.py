@@ -11,7 +11,7 @@ status = 'NOT DONE'
 
 
 
-token = '6902568106:AAE8Q7nzdxjz4H7e_ItbWEU96G1s4Z_rdQ8'
+token = ''
 bot = telebot.TeleBot(token)
 
 @bot.message_handler( commands = ['start'] )
